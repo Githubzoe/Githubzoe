@@ -1,6 +1,6 @@
 ### Hi I'm Zoe! 👋
 
-- 🔭 I’m currently working on making something cool.
+- 🔭 A front-end Developer currently working on building something cool.
 - 🌱 I’m currently learning DS and Algo...
 - 📫 How to reach me: zoe.shiye@gmail.com
 
